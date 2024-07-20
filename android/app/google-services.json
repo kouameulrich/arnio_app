@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348757503756",
+    "project_id": "arniomobile",
+    "storage_bucket": "arniomobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348757503756:android:660c8d6f099acb97742329",
+        "android_client_info": {
+          "package_name": "com.arnio.arnioapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbkzcLpYoa9H0Xtb6FGk3NrVJzxWP2l28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
